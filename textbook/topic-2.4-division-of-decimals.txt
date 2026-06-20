@@ -1,0 +1,141 @@
+================================================================================
+TOPIC 2.4: DIVISION OF DECIMALS
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Divide decimals by whole numbers
+- Divide decimals by 10, 100, and 1,000
+- Place the decimal point correctly in the answer
+
+KEY CONCEPTS
+------------
+
+1. DIVIDING DECIMALS BY WHOLE NUMBERS
+
+Division of decimals is the same as division of whole numbers.
+- Align the decimal point in the answer with the decimal point in the number being divided.
+- Complete the division until there is no remainder (add zeros if needed).
+
+2. DIVIDING DECIMALS BY 10, 100, AND 1,000
+
+To divide by 10: Shift the decimal point 1 place to the LEFT.
+To divide by 100: Shift the decimal point 2 places to the LEFT.
+To divide by 1,000: Shift the decimal point 3 places to the LEFT.
+
+This is because the value of the quotient decreases.
+
+WORKED EXAMPLES
+---------------
+
+Example 1: 1.5 ℓ ÷ 5
+
+Answer:
+    0. 3
+5) 1. 5
+   -0
+   1 5
+  -1 5
+     0
+
+1.5 ℓ ÷ 5 = 0.3 ℓ
+Each glass contains 0.3 ℓ of juice.
+
+Example 2: 2 kg ÷ 8
+
+Answer:
+    0. 2 5
+8) 2. 0 0
+   -0
+   2 0
+  -1 6
+    4 0
+   -4 0
+     0
+
+2 kg ÷ 8 = 0.25 kg
+The mass of one part of the cake is 0.25 kg.
+
+When writing the answer, ignore the 0 before number 7 in 0.07.
+
+Example 3: 63.72 ÷ 9
+
+Answer:
+    0 7. 0 8
+9) 6 3. 7 2
+   -0
+   6 3
+  -6 3
+     0 7
+    -  0
+       7 2
+      -7 2
+        0
+
+63.72 ÷ 9 = 7.08
+
+Example 4: 4.32 ÷ 10
+
+Answer:
+    0. 4 3 2
+10) 4. 3 2 0
+    -0
+    4 3
+   -4 0
+     3 2
+    -3 0
+      2 0
+     -2 0
+       0
+
+4.32 ÷ 10 = 0.432
+
+Quick way: Shift the decimal point 1 place to the left.
+4.32 ÷ 10 = 0.432
+
+Example 5: 657.8 ÷ 100
+
+Answer:
+657.8 ÷ 100 = 6.578
+(Shift the decimal point 2 places to the left)
+
+Example 6: 2,749 ÷ 10, ÷ 100, ÷ 1,000
+
+Answer:
+2,749 ÷ 10 = 274.9
+2,749 ÷ 100 = 27.49
+2,749 ÷ 1,000 = 2.749
+(Shift the decimal point 1, 2, or 3 places to the left)
+
+PRACTICE QUESTIONS
+------------------
+
+1. Divide:
+   a) 5.4 m ÷ 6 = ____ m
+   b) 3 kg ÷ 5 = ____ kg
+   c) 60.42 ℓ ÷ 4 = ____ ℓ
+   d) 87.5 ÷ 7 = 
+   e) 0.036 ÷ 9 = 
+   f) 20.028 ÷ 3 = 
+
+2. Quick division:
+   a) 0.7 ÷ 10 = 
+   b) 8.4 ÷ 10 = 
+   c) 653.2 ÷ 100 = 
+   d) 45.3 ÷ 100 = 
+   e) 9 ÷ 1,000 = 
+   f) 873 ÷ 1,000 = 
+
+3. Look at the division pattern. Complete it:
+   2,749 ÷ 10 = 274.9
+   2,749 ÷ 100 = 27.49
+   2,749 ÷ 1,000 = ____
+
+KEY VOCABULARY
+--------------
+- Divide: To split into equal parts or groups
+- Quotient: The result of division
+- Remainder: The amount left over (but with decimals, we continue until no remainder)
+- Align: To line up decimal points vertically
+- Shift: To move the decimal point to the left (for division by 10, 100, 1,000)

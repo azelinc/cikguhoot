@@ -1,0 +1,241 @@
+================================================================================
+TOPIC 1.6: SOLVE THE PROBLEMS
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Solve word problems involving addition, subtraction, multiplication, and division
+- Apply problem-solving steps: Understand, Plan, Solve, Check
+- Solve problems involving unknowns
+
+KEY CONCEPTS
+------------
+
+1. STEPS FOR SOLVING PROBLEMS
+
+Step 1: Understand the problem
+- Read carefully and underline important information.
+
+Step 2: Plan the strategy
+- Decide what operation(s) to use.
+- Draw a diagram if it helps.
+
+Step 3: Solve
+- Write the number sentence.
+- Calculate the answer.
+
+Step 4: Check
+- Check if the answer is reasonable.
+- Use estimation to verify.
+- Do the inverse operation to check.
+
+2. ADDITION
+
+Add according to place value. Start from ones.
+Group numbers that make 10 to add faster.
+
+3. SUBTRACTION
+
+Subtract according to place value. Start from ones.
+Borrow from the next place value when needed.
+
+4. FINDING UNKNOWNS
+
+Use the inverse operation to find unknown values.
+If 18 + n = 30, then n = 30 - 18 = 12.
+
+WORKED EXAMPLES
+---------------
+
+Example 1: Addition (Page 26)
+The table shows items sold in a year:
+- Hoverboard: 7,237
+- Skateboard: 653
+- Scooter: 9,084
+- Mini car: 18,045
+
+What is the total number of skateboards and hoverboards sold?
+
+Answer:
+18,045 + 7,237 = ?
+    1  8, 0 4 5
++      7, 2 3 7
+   2 5, 2 8 2
+
+The total number of skateboards and hoverboards sold is 25,282.
+
+Example 2: Addition of three numbers (Page 27)
+Find the total number of mini cars, scooters, and skateboards.
+
+Answer:
+653 + 9,084 + 18,045 = ?
+        1 8, 0 4 5
+          9, 0 8 4
++            6 5 3
+       2 7, 7 8 2
+
+The total is 27,782.
+
+Example 3: Subtraction (Page 31)
+Number of UPSR candidates:
+- SK: 26,467
+- Private School: 1,117
+- SJKC: 3,429
+- SJKT: 1,295
+
+a) How much less is the number of candidates in private school compared to SK?
+   26,467 - 1,117 = 25,350
+
+b) Calculate the difference between SK and SJKT.
+   26,467 - 1,295 = 25,172
+
+Example 4: Area Problem (Page 29)
+The total area of Sabah, Melaka, and Perlis is 76,116 km².
+Sabah: 73,631 km², Melaka: 1,664 km²
+Calculate the area of Perlis.
+
+Answer:
+73,631 + 1,664 + Perlis = 76,116
+Perlis = 76,116 - 73,631 - 1,664
+Perlis = 821 km²
+
+Example 5: Unknown in Addition (Page 30)
+18 + n = 30
+What is the value of n?
+
+Answer:
+n = 30 - 18
+n = 12
+
+Check: 18 + 12 = 30 ✓
+
+Example 6: Problem Solving with Multiplication (Page 61)
+13 schools sent 24 participants each. Find the total number of participants.
+
+Answer:
+13 × 24 = 312
+The total number of participants is 312.
+
+Example 7: Problem Solving with Division (Page 63)
+A factory produces 14,186 powerbanks in a day. 32 powerbanks are put in each box.
+How many boxes are needed? What is the remainder?
+
+Answer:
+14,186 ÷ 32 = 443 remainder 10
+443 boxes are needed with 10 powerbanks left over.
+
+Check: 443 × 32 = 14,176, then 14,176 + 10 = 14,186 ✓
+
+Example 8: Mixed Operations (Page 64)
+A poultry farm worker puts 84 cages of chickens into a lorry. Each cage has 
+8 chickens. The cages are distributed equally to 7 markets. 
+How many chickens are sent to each market?
+
+Answer:
+Total chickens = 84 × 8 = 672
+Chickens per market = 672 ÷ 7 = 96
+96 chickens are sent to each market.
+
+Number sentence: 84 × 8 ÷ 7 = 96
+
+Example 9: Find Unknown (Page 67)
+Amirah has 32 pieces of biscuits. Jasmin has p pieces of biscuits.
+Their total number of biscuits is 50 pieces. What is the value of p?
+
+Answer:
+32 + p = 50
+p = 50 - 32
+p = 18
+
+PRACTICE QUESTIONS
+------------------
+
+1. Add:
+   a) 50,326 + 1,240 = 
+   b) 18,607 + 596 = 
+   c) 23,510 + 17,008 + 491 = 
+   d) 37,159 + 4,025 + 891 + 67 = 
+   e) 51,902 + 3,497 + 12,854 = 
+   f) 632 + 1,740 + 895 + 64,932 = 
+
+2. Subtract:
+   a) 79,400 - 3,020 = 
+   b) 60,000 - 7,085 = 
+   c) 58,669 - 739 - 4,027 = 
+   d) RM65,916 - RM8,238 = 
+
+3. Find the values of p:
+   a) 20 + p = 28
+   b) p + 36 = 98
+   c) 19 + p = 40
+   d) p + 54 = 75
+
+4. Complete the number sentences:
+   a) 23,098 + ____ = 50,000
+   b) 32,907 + ____ + 5,401 = 64,020
+
+5. The table shows the number of visitors to three tourist attractions:
+   Crocodile farm: 30,819 | Water theme park: 31,450 | Butterfly park: 29,675
+   Total up the largest number of visitors and the number of visitors to the 
+   butterfly park. Round off to the nearest thousand.
+
+6. Bella has eight number cards: 1,473 ; 1,463 ; 1,468 ; 1,448 ; 1,458 ; 
+   1,453 ; 1,478 ; 1,488. She needs to arrange all the even number cards in 
+   ascending order. What is the fifth number in the number pattern?
+
+7. The table shows the number of cars in Perlis:
+   2013: 71,505 | 2014: 3,075 more than 2013 | 2015: 2,925 more than 2014
+   How many cars are there in Perlis in 2015?
+
+8. 27,600 mangrove tree seedlings were planted in districts R, S, and T.
+   District R: 17,930 seedlings, District S: 8,752 seedlings.
+   How many seedlings were planted in district T?
+
+9. The employees prepared 10,500 packets of mango sticky rice. 9,420 packets 
+   were sold. Then, 780 packets more were prepared. How many packets are there now?
+
+10. A factory produces 14,186 powerbanks in a day. 32 powerbanks are put in 
+    each box. How many boxes are needed? What is the remainder?
+
+11. A poultry farm worker puts 84 cages of chickens into a lorry. Each cage 
+    has 8 chickens. The cages are distributed equally to 7 markets. How many 
+    chickens are sent to each market?
+
+12. 3 machines print 7,350 pamphlets. Each machine prints an equal number. 
+    How many pamphlets can 10 similar machines print?
+
+13. Amirah has 32 pieces of biscuits. Jasmin has p pieces. Their total is 50. 
+    What is the value of p?
+
+14. Jack needs to install y fire extinguishers. 24 have been installed. 11 have 
+    not been installed. What is the value of y?
+
+15. A seller prepares 2,600 chocolate waffles. 900 are donated. Then the seller 
+    prepares 1,480 peanut waffles. He sends all waffles to child care centres. 
+    How many waffles are sent?
+
+16. Anis buys 7 boxes of dates. Each box has 35 dates. Her mother repackages 
+    them into bags of 5 dates each. How many bags are needed?
+
+17. 84,720 newspapers are distributed equally every day in April. Calculate 
+    the number distributed per week.
+
+18. In conjunction with the Go Green Campaign, about 20,000 trees were planted. 
+    The number was rounded off to the nearest ten thousand. Give 3 possible 
+    values for the number of trees planted.
+
+19. Siti buys 12 purple orchids and y white orchids. Total = 36. What is y?
+
+20. A block of flats has 90 units of houses. p units are occupied. 15 units 
+    are unoccupied. Find p.
+
+KEY VOCABULARY
+--------------
+- Understand: Read and identify the important information in a problem
+- Plan: Decide which operations to use to solve the problem
+- Solve: Write the number sentence and calculate the answer
+- Check: Verify if the answer is correct using the inverse operation
+- Number sentence: A mathematical statement using numbers and operations
+- Unknown: A missing value represented by a letter (like p, n, y)
+- Inverse operation: Opposite operations (addition and subtraction, multiplication and division)

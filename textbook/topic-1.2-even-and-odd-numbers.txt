@@ -1,0 +1,105 @@
+================================================================================
+TOPIC 1.2: EVEN NUMBERS AND ODD NUMBERS
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Identify even and odd numbers
+- Classify numbers as even or odd
+- Understand number patterns involving even and odd numbers
+
+KEY CONCEPTS
+------------
+
+1. WHAT ARE EVEN AND ODD NUMBERS?
+
+Even numbers: Numbers that end with 0, 2, 4, 6, or 8.
+Odd numbers: Numbers that end with 1, 3, 5, 7, or 9.
+
+Examples:
+- Even numbers: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ...
+- Odd numbers: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, ...
+
+2. CHECKING WITH DIVISION
+
+To check if a number is even or odd, divide it by 2:
+- If there is NO remainder, the number is even.
+- If there IS a remainder, the number is odd.
+
+Example: Check if 13 is even or odd.
+  13 ÷ 2 = 6 remainder 1
+  There is a remainder, so 13 is an ODD number.
+
+Example: Check if 18 is even or odd.
+  18 ÷ 2 = 9 remainder 0
+  There is no remainder, so 18 is an EVEN number.
+
+3. ALL EVEN NUMBERS ARE IN THE 2 TIMES TABLE
+
+Any number in the 2 times table is an even number.
+2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ...
+
+4. NUMBER PATTERNS
+
+Number patterns can increase or decrease by a fixed amount.
+Example: 10,017 ; 10,010 ; 10,003 ; 9,996 ; 9,989 (decreases by 7 each time)
+Example: 20,730 ; 30,730 ; 40,730 ; 50,730 ; 60,730 (increases by 10,000 each time)
+
+WORKED EXAMPLES
+---------------
+
+Example 1: Prove that 32 is an even number and 85 is an odd number.
+
+Answer:
+32 ÷ 2 = 16 remainder 0. No remainder, so 32 is even.
+32 ends with 2, so it is even.
+
+85 ÷ 2 = 42 remainder 1. Has a remainder, so 85 is odd.
+85 ends with 5, so it is odd.
+
+Example 2: State all odd numbers from 520 to 531.
+
+Answer:
+Numbers from 520 to 531: 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531
+Odd numbers (ending with 1, 3, 5, 7, 9): 521, 523, 525, 527, 529, 531
+
+Example 3: List all even numbers from 2,001 to 2,012.
+
+Answer:
+Even numbers (ending with 0, 2, 4, 6, 8): 2,002 ; 2,004 ; 2,006 ; 2,008 ; 2,010 ; 2,012
+
+PRACTICE QUESTIONS
+------------------
+
+1. Classify the following numbers into even and odd numbers:
+   50,204 ; 76,000 ; 16,783 ; 84,316 ; 64,271 ; 90,909
+
+2. How many odd numbers are there from 6,020 to 6,030?
+
+3. Determine the number patterns:
+   a) 19,540 ; 19,545 ; 19,550 ; 19,555 ; 19,560
+   b) 26,709 ; 26,705 ; 26,701 ; 26,697 ; 26,693
+   c) 74,027 ; 74,025 ; 74,023 ; 74,021 ; 74,019
+
+4. What is the number pattern?
+   28,010 ; 28,016 ; 28,022 ; 28,028
+
+5. Complete the number line and state its pattern:
+   60,100 ; 60,110 ; ____ ; ____ ; ____ ; 60,150
+
+6. 85,275 less by 1,000 is ____.
+
+7. Identify the number pattern that increases by eights:
+   a) 81,012 ; 81,020 ; 81,028 ; 81,036
+   b) 49,383 ; 49,390 ; 49,397 ; 49,404
+
+8. What is the sixth number in this number pattern?
+   15,507 ; 15,607 ; 15,707 ; ...
+
+KEY VOCABULARY
+--------------
+- Even number: A number that ends with 0, 2, 4, 6, or 8. It can be divided by 2 with no remainder.
+- Odd number: A number that ends with 1, 3, 5, 7, or 9. It has a remainder of 1 when divided by 2.
+- Remainder: The amount left over after division.
+- Number pattern: A sequence of numbers that follow a rule (increasing or decreasing by the same amount each time).

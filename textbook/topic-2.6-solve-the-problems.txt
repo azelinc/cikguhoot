@@ -1,0 +1,215 @@
+================================================================================
+TOPIC 2.6: SOLVE THE PROBLEMS (Fractions, Decimals, Percentages)
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Solve word problems involving fractions, decimals, and percentages
+- Apply problem-solving steps: Understand, Plan, Solve, Check
+- Find the value of a fraction of a quantity
+
+KEY CONCEPTS
+------------
+
+1. SOLVING FRACTION PROBLEMS
+
+When finding a fraction of a quantity:
+- Divide the total quantity by the denominator.
+- Multiply the result by the numerator.
+
+Example: 3/7 of 140
+  140 ÷ 7 = 20
+  20 × 3 = 60
+
+2. SOLVING DECIMAL PROBLEMS
+
+When solving decimal word problems:
+- Identify the operation needed (addition, subtraction, multiplication, division).
+- Align decimal points for addition/subtraction.
+- Place decimal point correctly for multiplication/division.
+
+3. SOLVING PERCENTAGE PROBLEMS
+
+To find a percentage of a quantity:
+- Convert the percentage to a fraction.
+- Multiply by the quantity.
+
+Example: 25% of 280 = 25/100 × 280 = 1/4 × 280 = 70
+
+WORKED EXAMPLES
+---------------
+
+Example 1: Adding Fractions (Page 105 - Solve the Problems)
+Santesh, Swee Lan, and Rokiah collected recycled materials.
+Week 1: 2½ kg | Week 2: 4 kg | Week 3: 3⅕ kg
+What is the total mass of the collected materials?
+
+Answer:
+Convert to fractions with the same denominator:
+2½ = 5/2 = 25/10
+4 = 40/10
+3⅕ = 16/5 = 32/10
+
+Total = 25/10 + 40/10 + 32/10 = 97/10 = 9⁷⁄₁₀ kg
+
+The total mass of the collected materials is 9⁷⁄₁₀ kg.
+
+Example 2: Fraction of a quantity (Page 106)
+The total number of Science Club members is 140.
+3/7 of the members are Year 4 pupils.
+1/2 of the members are Year 5 pupils.
+Calculate the difference between the number of Year 4 and Year 5 pupils.
+
+Answer:
+Year 4 pupils: 3/7 of 140 = 140 ÷ 7 × 3 = 20 × 3 = 60
+Year 5 pupils: 1/2 of 140 = 140 ÷ 2 = 70
+Difference: 70 - 60 = 10
+
+The difference between the number of Year 4 and Year 5 pupils is 10.
+
+Example 3: Decimal addition and subtraction (Page 107)
+Three balloon cars:
+- Newton: 3.1 m
+- Pythagoras: 1.15 m more than Newton car
+- Einstein: 2.15 m
+
+What is the difference in distance covered by Pythagoras car and Einstein car?
+
+Answer:
+Pythagoras distance: 3.1 m + 1.15 m = 4.25 m
+Difference: 4.25 m - 2.15 m = 2.10 m
+
+The difference is 2.1 m.
+
+Number sentence: 3.1 + 1.15 - 2.15 = 2.1
+
+Example 4: Division of decimals (Page 108)
+Green House needs to prepare 8 pieces of flags of equal size.
+The total length of cloth needed is 14.96 m.
+What is the length of cloth for each flag?
+
+Answer:
+14.96 m ÷ 8 = ?
+    1. 8 7
+8) 1 4. 9 6
+   -8
+    6 9
+   -6 4
+      5 6
+     -5 6
+       0
+
+14.96 m ÷ 8 = 1.87 m
+The length of cloth for each flag is 1.87 m.
+
+Check: 1.87 × 8 = 14.96 ✓
+
+Example 5: Percentage of money (Page 108)
+The Mathematics Club received RM280. RM70 was used.
+Calculate the percentage of money spent.
+
+Answer:
+Percentage = 70/280 × 100% = 25%
+The percentage of money spent was 25%.
+
+Example 6: Comparing percentages (Page 109)
+Kelvin gets 48 out of 60 marks in Environmental Quiz.
+Dina gets 24 out of 32 marks in Road Safety Quiz.
+Prem Singh gets 81 out of 90 marks in Flora and Fauna Quiz.
+Who has the highest percentage of marks?
+
+Answer:
+Kelvin: 48/60 × 100% = 80%
+Dina: 24/32 × 100% = 75%
+Prem Singh: 81/90 × 100% = 90%
+
+Prem Singh has the highest percentage (90%).
+
+PRACTICE QUESTIONS
+------------------
+
+1. Santesh, Swee Lan, and Rokiah collected recycled materials.
+   Week 1: 2½ kg | Week 2: 4 kg | Week 3: 3⅕ kg
+   What is the total mass?
+
+2. The Science Club has 140 members. 3/7 are Year 4 pupils and 1/2 are 
+   Year 5 pupils. What is the difference between the number of Year 4 
+   and Year 5 pupils? How many members are not Year 4 or Year 5 pupils?
+
+3. Three balloon cars:
+   Newton: 3.1 m, Pythagoras: 1.15 m more than Newton, Einstein: 2.15 m
+   a) What is the difference between Pythagoras car and Einstein car?
+   b) Calculate the difference between Newton car and Einstein car.
+
+4. Green House needs 8 flags of equal size. Total cloth = 14.96 m.
+   What is the length of cloth for each flag?
+
+5. The Mathematics Club received RM280. RM70 was used to buy things.
+   What percentage of money was spent?
+
+6. Kelvin gets 48/60 in Environmental Quiz. Dina gets 24/32 in Road Safety.
+   Prem Singh gets 81/90 in Flora and Fauna Quiz. Who has the highest 
+   percentage?
+
+7. Gawing goes to school every day. Gambit was absent on Thursday.
+   Gawing's house to school: 0.52 km | Gambit's house to school: 0.4 km
+   a) Total up the distance they both travelled in a day.
+   b) Calculate the difference in distance travelled by Gawing and Gambit 
+      for the week.
+
+8. Pauline gets RM6 pocket money every day. She spends 2/3 of the money.
+   The balance is saved.
+   a) How much does she spend every day?
+   b) Does her savings exceed RM8 after 5 days?
+
+9. Complete the cross-number puzzle:
+   ACROSS:
+   A) 2.48 + 36.7 = 
+   C) 463.4 + 176.803 = 
+   D) 100 × 5.074 = 
+   H) 94.32 + 103.4 + 32.299 = 
+
+   DOWN:
+   A) 31.8 ÷ 10 = 
+   B) 2,143 ÷ 1,000 = 
+   D) 80 - 25.69 = 
+   F) 26.7 - 8.093 = 
+   I) 94.32 - ____ = 53.05
+
+10. Hamimah used 5 ℓ of mineral water, 3/4 ℓ of syrup, and 1/5 ℓ of roselle 
+    extract to make roselle juice. Does the total volume exceed 6ℓ?
+
+11. Fong's father has a rope of 10 m long. He used 2.85 m to tie books and 
+    3.12 m to tie used goods.
+    a) What is the length of rope left?
+    b) Calculate the difference between the length of rope used for books 
+       and used goods.
+
+12. Given K = 4.2, L = 10.83, M = 6.278. Find:
+    a) K + L + M
+    b) L - K
+    c) M + K - L
+
+13. Find the product:
+    a) 4/9 of 50 m
+    b) 4/9 of 81 kg
+    c) 4/9 of 96 ℓ
+
+14. Calculate:
+    a) 7/8 + 1/8 = 
+    b) 4/5 + 1/2 = 
+    c) 3/4 - 2/3 = 
+    d) 5/6 - 1/2 = 
+    e) 6 × 3/5 = 
+    f) 3⅓ - 1⅙ = 
+
+KEY VOCABULARY
+--------------
+- Fraction of a quantity: Finding a part of a total (e.g., 3/7 of 140)
+- Percentage: A number out of 100, shown with the % symbol
+- Sum: The result of addition
+- Difference: The result of subtraction
+- Product: The result of multiplication
+- Quotient: The result of division
+- Simplify: To reduce a fraction to its simplest form

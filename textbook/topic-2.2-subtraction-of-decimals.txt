@@ -1,0 +1,104 @@
+================================================================================
+TOPIC 2.2: SUBTRACTION OF DECIMALS
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Subtract numbers with decimals up to three decimal places
+- Align decimal points correctly when subtracting
+- Solve problems involving subtraction of decimals
+
+KEY CONCEPTS
+------------
+
+1. SUBTRACTING DECIMALS
+
+Subtraction of decimals is the same as subtraction of whole numbers.
+- ALIGN the decimal points in the same column.
+- Add zeros as placeholders so all numbers have the same number of decimal places.
+- Borrow from the next place value when needed.
+
+WORKED EXAMPLES
+---------------
+
+Example 1: 12.6 kg - 2.5 kg
+
+Answer:
+  1 2. 6
+-   2. 5
+  1 0. 1
+
+12.6 kg - 2.5 kg = 10.1 kg
+
+Example 2: 1.4 m - 0.13 m
+
+Answer:
+Place a 0 as a placeholder:
+  1. 4 0
+- 0. 1 3
+  1. 2 7
+
+1.4 m - 0.13 m = 1.27 m
+
+Kaswini's height is 1.27 m.
+
+Example 3: 5 - 0.58 - 4.079
+
+Answer:
+Step 1: 5 - 0.58
+  5. 0 0
+- 0. 5 8
+  4. 4 2
+
+Step 2: 4.42 - 4.079
+  4. 4 2 0
+- 4. 0 7 9
+  0. 3 4 1
+
+5 - 0.58 - 4.079 = 0.341
+
+Example 4: 34.8 - 12.45 - 0.619
+
+Answer:
+Step 1: 34.80 - 12.45 = 22.35
+Step 2: 22.350 - 0.619 = 21.731
+
+34.8 - 12.45 - 0.619 = 21.731
+
+Example 5: Find the unknown: 19.8 - ____ = 5.73
+
+Answer:
+Use inverse operation: ____ = 19.8 - 5.73
+  1 9. 8 0
+-   5. 7 3
+  1 4. 0 7
+
+So 19.8 - 14.07 = 5.73
+
+PRACTICE QUESTIONS
+------------------
+
+1. Calculate:
+   a) 2.3 g - 0.74 g = ____ g
+   b) 10.58 seconds - 0.3 seconds = ____ seconds
+   c) 3.48 - 2.069 = 
+   d) 496.984 - 70.56 = 
+   e) 539.217 - 486.05 = 
+   f) 609.632 - 256.75 - 33.078 = 
+   g) 207.48 - 93 - 4.097 = 
+   h) 54.04 - 8.62 - 0.67 = 
+
+2. Complete the number sentences:
+   a) 8.7 - ____ = 2.64
+   b) 59.367 - ____ = 28.074
+
+(Hint: Use the simple example: 3 - 2 = 1, so 3 - 1 = 2)
+
+KEY VOCABULARY
+--------------
+- Subtract: To take one number away from another
+- Difference: The result of subtraction
+- Borrow: To take from the next place value when a digit is too small to subtract from
+- Align: To line up decimal points vertically
+- Placeholder: A zero added to the end of a decimal to make the number of decimal places the same

@@ -1,0 +1,119 @@
+================================================================================
+TOPIC 1.4: ROUND OFF NUMBERS
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Round off numbers to the nearest ten, hundred, thousand, and ten thousand
+- Apply rounding off in daily life situations
+
+KEY CONCEPTS
+------------
+
+1. WHAT IS ROUNDING OFF?
+
+Rounding off means changing a number to a nearby number that is easier to 
+work with. The rounded number is close to the original but ends with zeros.
+
+2. RULES FOR ROUNDING OFF
+
+When rounding off to a certain place value, look at the digit to its right:
+
+a) Rounding to the nearest ten thousand:
+   - Look at the thousands digit.
+   - If the thousands digit is 5, 6, 7, 8, or 9 → ADD 1 to the ten thousands digit.
+   - If the thousands digit is 0, 1, 2, 3, or 4 → keep the ten thousands digit the same.
+   - Replace all digits to the right with 0.
+
+b) Rounding to the nearest thousand:
+   - Look at the hundreds digit.
+   - Apply the same 5-9 (round up) or 0-4 (keep same) rule.
+   - Replace all digits to the right with 0.
+
+c) The middle value is rounded off to the larger ten, hundred, thousand, 
+   and ten thousand.
+
+3. WHY DO WE ROUND OFF NUMBERS?
+
+Rounding off helps us:
+- Estimate answers quickly
+- Manage budgets and avoid wastage
+- Make numbers easier to understand and talk about
+
+WORKED EXAMPLES
+---------------
+
+Example 1: Round off 12,295 to the nearest thousand.
+
+Answer:
+12,295 is between 12,000 and 13,000.
+Look at the hundreds digit: 2 (which is less than 5).
+So we keep the thousands digit the same.
+12,295 rounded off to the nearest thousand is 12,000.
+
+Example 2: Round off 38,704 to the nearest ten thousand.
+
+Answer:
+38,704 is between 30,000 and 40,000.
+Look at the thousands digit: 8 (which is more than 5).
+So we add 1 to the ten thousands digit: 3 becomes 4.
+38,704 rounded off to the nearest ten thousand is 40,000.
+
+Method 1: Number line
+38,704 is nearer to 40,000 than to 30,000.
+
+Method 2: Digit rule
+If the thousands digit is 5, 6, 7, 8, or 9, add 1 to the ten thousands value.
+Replace digits 8, 7, 0, and 4 with 0.
+38,704 → 40,000
+
+Example 3: Round off 19,500 ml to the nearest thousand ml.
+
+Answer:
+19,500 ml is between 19,000 ml and 20,000 ml.
+19,500 ml is exactly in the middle.
+The middle value is rounded off to the larger value.
+19,500 ml becomes 20,000 ml when rounded off to the nearest thousand ml.
+
+Example 4: Round off RM63,988 to the nearest ten thousand ringgit.
+
+Answer:
+RM63,988 is between RM60,000 and RM70,000.
+63,988 is nearer to RM60,000.
+RM63,988 rounded off to the nearest ten thousand ringgit is RM60,000.
+
+PRACTICE QUESTIONS
+------------------
+
+1. Round off RM85,090 to the nearest thousand ringgit.
+
+2. The number of readers of four storybooks:
+   44,900 ; 48,720 ; 54,200 ; 58,600
+   Which storybooks have 50,000 readers when rounded off to the nearest ten thousand?
+   (Hint: Numbers from 45,000 to 54,999 become 50,000)
+
+3. Besides 44,900, what other numbers become 40,000 when rounded off to the nearest ten thousand?
+
+4. Choose the correct answers:
+   a) Which of (68,790 ; 68,565 ; 68,489) becomes 69,000 when rounded off to the nearest thousand?
+   b) Which of (72,103 ; 76,092 ; 85,520) becomes 80,000 when rounded off to the nearest ten thousand?
+
+5. Round off RM83,609 to the nearest ten thousand ringgit.
+
+6. Round off the following numbers to the nearest hundred, nearest thousand, and nearest ten thousand:
+   a) 14,278   b) 46,195   c) 62,045   d) 79,638   e) 95,307
+
+7. State three numbers which become 50,000 when rounded off to the nearest ten thousand.
+
+Mind Teaser:
+A number becomes 30,000 when rounded off to the nearest ten thousand, thousand, 
+hundred, and ten. What are the thousands digits of the number?
+
+KEY VOCABULARY
+--------------
+- Round off: To change a number to a nearby number that ends with zeros
+- Nearest ten: The multiple of 10 that is closest to the number
+- Nearest hundred: The multiple of 100 that is closest to the number
+- Nearest thousand: The multiple of 1,000 that is closest to the number
+- Nearest ten thousand: The multiple of 10,000 that is closest to the number

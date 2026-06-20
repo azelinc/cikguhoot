@@ -1,0 +1,76 @@
+================================================================================
+TOPIC 1.3: ESTIMATION
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Estimate quantities in daily life situations
+- Use reference sets to make reasonable estimations
+
+KEY CONCEPTS
+------------
+
+1. WHAT IS ESTIMATION?
+
+Estimation is making a careful guess about the amount or quantity of something.
+We estimate when we don't need an exact number, just a close guess.
+
+Estimation is very important in daily life such as:
+- Estimating the amount of ingredients before cooking
+- Estimating expenses before spending
+
+2. HOW TO ESTIMATE
+
+To estimate, we can:
+- Compare with a known reference amount
+- Use familiar quantities as a guide
+- Think about whether the actual amount is more or less than the reference
+
+WORKED EXAMPLES
+---------------
+
+Example 1: Estimating Quantities
+A jar (Jar A) contains 5,500 water balls. Jar B is bigger than Jar A.
+Three pupils gave their estimates:
+- Hazel: "About 10,000 balls"
+- Vinod: "Nearly 10,000 balls"
+- Anis: "20,000 balls"
+
+Whose estimation is the most accurate? Why?
+
+Answer:
+The number of water balls in Jar B must be less than 20,000.
+Since Jar B is bigger than Jar A (which has 5,500), the answer should be more than 5,500.
+About 10,000 or nearly 10,000 seems reasonable.
+Anis's estimate of 20,000 is too high.
+
+Example 2: Estimating Volume
+Pool R has 4,000 litres of water.
+The height of pool S is almost 4 times the height of pool R.
+The height of pool T is about double the height of pool R.
+
+Estimate the volume of water in pools S and T.
+
+Answer:
+Pool S: 4 × 4,000 litres = almost 16,000 litres
+Pool T: 2 × 4,000 litres = about 8,000 litres
+
+PRACTICE QUESTIONS
+------------------
+
+1. Estimate the number of beads in containers A and B.
+   Container A has 17,000 beads.
+   (Use the reference to estimate container B)
+
+2. Estimate the volume of water in bottle C.
+   A reference of 10,000 ml is given.
+
+3. Try to guess the number of water balls in jar B when jar A contains 5,500 balls.
+
+KEY VOCABULARY
+--------------
+- Estimation: A careful guess about quantity or amount
+- Estimate (verb): To make a careful guess
+- Quantity: An amount or number of something
+- Reference set: A known amount used to compare and estimate other amounts

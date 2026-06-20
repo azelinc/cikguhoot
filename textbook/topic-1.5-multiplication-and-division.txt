@@ -1,0 +1,123 @@
+================================================================================
+TOPIC 1.5: MULTIPLICATION AND DIVISION
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Solve mixed operations involving multiplication and division
+- Use elimination methods to simplify calculations
+
+KEY CONCEPTS
+------------
+
+1. MULTIPLICATION AND DIVISION TOGETHER
+
+When a problem has both multiplication and division:
+- Follow the order from left to right.
+- OR, you can sometimes eliminate (cancel out) common factors to simplify.
+
+2. ELIMINATION METHOD
+
+If the number you are multiplying by and the number you are dividing by 
+share a common factor, you can simplify first.
+
+Example: 8 × 6 ÷ 4
+Method 1: Multiply first, then divide
+  8 × 6 = 48
+  48 ÷ 4 = 12
+
+Method 2: Eliminate first
+  8 × 6 ÷ 4 = 2 × 6 = 12
+  (Because 8 ÷ 4 = 2)
+
+WORKED EXAMPLES
+---------------
+
+Example 1: Multiply 630 by 15. Divide the product by 30.
+
+Answer:
+630 × 15 ÷ 30 =
+  630 × 15 = 9,450
+  9,450 ÷ 30 = 315
+
+OR eliminate first:
+  630 ÷ 30 = 21
+  21 × 15 = 315
+
+So 630 × 15 ÷ 30 = 315.
+
+Example 2: 21 × 3,059 ÷ 7
+
+Answer:
+Method 1: Multiply first, then divide.
+  21 × 3,059 = 64,239
+  64,239 ÷ 7 = 9,177
+
+Method 2: Eliminate first (21 ÷ 7 = 3).
+  21 × 3,059 ÷ 7 = 3 × 3,059 = 9,177
+
+So 21 × 3,059 ÷ 7 = 9,177.
+
+Example 3: 14,100 ÷ 50 × 3
+
+A factory produces 14,100 pairs of shoes. They are equally distributed to 
+50 shoe shops. 3 of the shops are Din's Shoe Shop. How many pairs of shoes 
+are distributed to Din's Shoe Shop?
+
+Answer:
+14,100 ÷ 50 = 282
+282 × 3 = 846
+846 pairs of shoes are distributed to Din's Shoe Shop.
+
+So 14,100 ÷ 50 × 3 = 846.
+
+Example 4: Divide 89,000 by 1,000. Then multiply the quotient by 67.
+
+Answer:
+89,000 ÷ 1,000 = 89
+89 × 67 = 5,963
+So 89,000 ÷ 1,000 × 67 = 5,963.
+
+Example 5: 42,000 ÷ 42 × 100
+
+Answer:
+42,000 ÷ 42 = 1,000
+1,000 × 100 = 100,000
+So 42,000 ÷ 42 × 100 = 100,000.
+
+PRACTICE QUESTIONS
+------------------
+
+1. Calculate:
+   a) 72 × 8 ÷ 9 = 
+   b) 96 ÷ 6 × 7 = 
+   c) 120 × 5 ÷ 10 = 
+   d) 800 ÷ 100 × 3 = 
+   e) 87 × 34 ÷ 3 = 
+   f) 90,656 ÷ 8 × 4 = 
+   g) 96 × 28 ÷ 16 = 
+   h) 182 ÷ 14 × 86 = 
+
+2. Multiply 100 by 500. Then divide the product by 20.
+
+3. Divide 78,000 by 1,000. Then multiply the quotient by 43.
+
+Mind Teaser:
+Look at the value puzzle:
+P = 273
+P ÷ 3 = Q
+Q × 4 = R
+R × 100 = ?
+What is the value of R?
+
+Is 8,900 ÷ 100 × 67 = 5,963? Is this number sentence correct? Discuss.
+
+KEY VOCABULARY
+--------------
+- Multiply: To add a number to itself a certain number of times
+- Divide: To split into equal parts or groups
+- Product: The result of multiplication
+- Quotient: The result of division
+- Eliminate: Cancel out common factors to simplify calculations
+- Mixed operations: Problems that involve more than one type of operation

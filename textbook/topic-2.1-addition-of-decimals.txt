@@ -1,0 +1,102 @@
+================================================================================
+TOPIC 2.1: ADDITION OF DECIMALS
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Add numbers with decimals up to three decimal places
+- Align decimal points correctly when adding
+- Solve problems involving addition of decimals
+
+KEY CONCEPTS
+------------
+
+1. ADDING DECIMALS
+
+Adding decimals is the same as adding whole numbers. The key rule is:
+- ALIGN the decimal points in the same column.
+- Add zeros as placeholders to make all numbers have the same number of decimal places.
+
+2. STEPS FOR ADDING DECIMALS
+
+Step 1: Write the numbers with their decimal points aligned vertically.
+Step 2: Add zeros at the end if needed (as placeholders).
+Step 3: Add from right to left, just like adding whole numbers.
+Step 4: Place the decimal point in the answer in line with the others.
+
+WORKED EXAMPLES
+---------------
+
+Example 1: 1.8 ℓ + 0.5 ℓ
+
+Answer:
+  1.8
++ 0.5
+  2.3
+
+1.8 ℓ + 0.5 ℓ = 2.3 ℓ
+
+Method 1 (Number line): Start from 1.8, move up 5 steps of 0.1 to reach 2.3.
+Method 2 (Vertical addition): Align the decimal points and add.
+
+Example 2: 1.3 kg + 4.207 kg + 0.96 kg
+
+Answer:
+Align the decimal points and add 0 as placeholders:
+  1.3 0 0
+  4.2 0 7
++ 0.9 6 0
+  6.4 6 7
+
+1.3 kg + 4.207 kg + 0.96 kg = 6.467 kg
+
+Example 3: 234 + 0.876 + 59.01
+
+Answer:
+Align decimal points (whole number 234 becomes 234.000):
+  2 3 4. 0 0 0
+    0. 8 7 6
++   5 9. 0 1 0
+  2 9 3. 8 8 6
+
+234 + 0.876 + 59.01 = 293.886
+
+Example 4: Find the unknown: 2.209 + ____ = 7.103
+
+Answer:
+Use inverse operation: ____ = 7.103 - 2.209
+  7.1 0 3
+- 2.2 0 9
+  4.8 9 4
+
+So 2.209 + 4.894 = 7.103
+
+PRACTICE QUESTIONS
+------------------
+
+1. Calculate:
+   a) 3.0 m + 1.9 m = ____ m
+   b) 10.54 ℓ + 7.009 ℓ = ____ ℓ
+   c) 6.93 + 80.521 = 
+   d) 36.584 + 6 + 0.732 = 
+   e) 0.645 + 29.1 + 917.08 = 
+   f) 100 + 59.2 + 1.603 = 
+
+2. Complete the number sentences:
+   a) 0.98 + ____ = 6.735
+   b) ____ + 37.012 = 40.1
+
+Mind Teaser:
+Complete this number sentence: ____ + ____ = 26.721
+(Hint: Use the simple example 1 + 2 = 3, so ____ = 3 - 1)
+
+KEY VOCABULARY
+--------------
+- Decimal: A number with a decimal point separating the whole part from the fractional part
+- Decimal point: The dot (.) that separates whole numbers from decimal parts
+- Align: To line up the decimal points vertically
+- Placeholder: A zero added to the end of a decimal to make the number of decimal places the same
+- Tenths: The first place after the decimal point (0.1)
+- Hundredths: The second place after the decimal point (0.01)
+- Thousandths: The third place after the decimal point (0.001)

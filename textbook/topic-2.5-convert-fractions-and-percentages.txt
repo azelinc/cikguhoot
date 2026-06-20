@@ -1,0 +1,143 @@
+================================================================================
+TOPIC 2.5: CONVERT FRACTIONS AND PERCENTAGES
+Mathematics Year 4 DLP
+================================================================================
+
+LEARNING OBJECTIVES
+-------------------
+- Convert fractions to percentages
+- Convert percentages to fractions
+- Find percentages of objects and quantities
+
+KEY CONCEPTS
+------------
+
+1. WHAT IS PERCENTAGE?
+
+Percentage means "out of 100". The symbol % means percent.
+35 out of 100 is 35 hundredths, which is 35%.
+
+100 doughnuts were sold. 35 pieces were chocolate doughnuts.
+So 35% of the doughnuts were chocolate.
+
+2. CONVERTING FRACTIONS TO PERCENTAGES
+
+Method 1: Convert the fraction to an equivalent fraction with denominator 100.
+  Example: 7/10 = 70/100 = 70%
+
+Method 2: Multiply the fraction by 100%.
+  Example: 7/10 × 100% = 70%
+
+3. CONVERTING PERCENTAGES TO FRACTIONS
+
+Write the percentage as a fraction out of 100, then simplify.
+
+Example: 40% = 40/100 = 2/5 (simplified by dividing numerator and denominator by 20)
+
+WORKED EXAMPLES
+---------------
+
+Example 1: State the percentage of the chocolate doughnuts.
+
+Answer:
+35 out of 100 doughnuts are chocolate.
+35 hundredths = 35%
+The percentage of the chocolate doughnuts is 35%.
+
+Example 2: Write 7/10 in percentage.
+
+Answer:
+Method 1: 
+7/10 = (7 × 10)/(10 × 10) = 70/100 = 70%
+
+Method 2:
+7/10 × 100% = 70%
+
+So 7/10 = 70%.
+
+Example 3: Convert 4/5 to percentage.
+
+Answer:
+Method 1: 
+4/5 = (4 × 20)/(5 × 20) = 80/100 = 80%
+
+Method 2:
+4/5 × 100% = 80%
+
+So 4/5 = 80%.
+
+Example 4: Write 40% as a fraction in simplest form.
+
+Answer:
+40% = 40/100
+Simplify: Divide numerator and denominator by 20.
+40 ÷ 20 = 2
+100 ÷ 20 = 5
+So 40% = 2/5.
+
+Example 5: Write 63% as a fraction of hundredths.
+
+Answer:
+63% = 63/100
+
+Example 6: Write 90% as a fraction in simplest form.
+
+Answer:
+90% = 90/100
+Simplify: Divide by 10.
+90 ÷ 10 = 9
+100 ÷ 10 = 10
+So 90% = 9/10.
+
+Example 7: Finding percentage of objects.
+
+3 out of 10 hats are red.
+The fraction of red hats is 3/10.
+Percentage of red hats = 3/10 × 100% = 30%
+
+8 vans out of 40 vehicles:
+Percentage = 8/40 × 100% = 20%
+
+Aimi read 12 out of 50 books.
+Percentage = 12/50 × 100% = 24%
+
+PRACTICE QUESTIONS
+------------------
+
+1. Complete these conversions:
+   
+   Fraction | Percentage
+   ---------|-----------
+    27/100  |    ?
+     3/4    |    ?
+     9/20   |    ?
+     1/5    |    ?
+     2/10   |    ?
+
+2. Write these percentages as fractions in their simplest form:
+   a) 19%
+   b) 60%
+   c) 85%
+
+3. State the percentage of the following objects:
+   a) 8 red cubes out of 20 cubes
+   b) 17 pieces of 50 sen coins out of 25 pieces of coins
+
+4. 50% of hats are grey. 35 out of 50 books are storybooks. Calculate the percentage.
+
+5. Vicknesh read 14 books, Daren read 11 books, Aimi read 12 books, 
+   Sharon read 13 books out of a total of 50 books. 
+   State the percentage of the books read by Aimi.
+
+Mind Teaser:
+Do 4/5 and 80% represent an equal value of percentage? Show it.
+
+KEY VOCABULARY
+--------------
+- Percentage: A number out of 100, shown with the % symbol
+- Percent: Means "out of 100" or "per hundred"
+- Fraction: A part of a whole, shown as numerator/denominator
+- Convert: To change from one form to another (fraction to percentage or vice versa)
+- Equivalent fraction: A fraction that has the same value but different numerator and denominator
+- Simplify: To reduce a fraction to its smallest possible numerator and denominator
+- Hundredths: Parts out of 100
