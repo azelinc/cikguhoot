@@ -3,7 +3,7 @@
 // ============================================================
 
 // --- Configuration ---
-const TUTOR_API = 'http://172.16.2.1:8001/api/tutor';  // VPS proxy (add domain later)
+const TUTOR_API = 'https://tutor.azelinc.tech/api/tutor';
 const CONFIG = {
   kids: [
     { id: 'alya',  name: 'Alya',  grade: 'Form 1 · 13 y/o', avatar: '👩', color: '#c084fc', subjects: ['Math', 'Science'] },
