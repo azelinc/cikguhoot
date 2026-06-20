@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Cikgu Hoot - AI Tutor</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0f172a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Cikgu Hoot">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="mobile.css">
+</head>
+<body>
+<div class="screen" id="home-screen">
+  <div class="home-header">
+    <div class="logo-area">
+      <svg width="48" height="48" viewBox="0 0 120 120" fill="none">
+        <ellipse cx="60" cy="88" rx="32" ry="22" fill="#1e3a5f" stroke="#3b82f6" stroke-width="1.5"/>
+        <circle cx="60" cy="48" r="28" fill="#1e3a5f" stroke="#3b82f6" stroke-width="1.5"/>
+        <ellipse cx="50" cy="44" rx="5" ry="6" fill="#f1f5f9"/>
+        <ellipse cx="70" cy="44" rx="5" ry="6" fill="#f1f5f9"/>
+        <circle cx="51" cy="44" r="3" fill="#0f172a"/>
+        <circle cx="71" cy="44" r="3" fill="#0f172a"/>
+        <polygon points="60,52 55,58 65,58" fill="#fbbf24"/>
+        <rect x="40" y="24" width="40" height="4" rx="2" fill="#60a5fa"/>
+        <polygon points="60,18 60,24 66,20" fill="#fbbf24"/>
+      </svg>
+    </div>
+    <h1>Cikgu Hoot</h1>
+    <p class="subtitle">AI Virtual Tutor for KSSR</p>
+  </div>
+
+  <div class="kids-grid" id="kids-grid"></div>
+
+  <div class="subject-panel" id="subject-panel" style="display:none">
+    <h3 id="selected-kid-name"></h3>
+    <div class="subject-list" id="subject-list"></div>
+    <button class="back-btn" onclick="backToKids()">← Back</button>
+  </div>
+
+  <div class="home-footer">
+    <span class="experimental-badge">⚗️ Experimental</span>
+  </div>
+</div>
+
+<div class="screen" id="tutor-screen" style="display:none">
+  <div class="tutor-header">
+    <button class="top-back" onclick="exitTutor()">‹</button>
+    <div class="tutor-header-info">
+      <span class="tutor-subject" id="tutor-subject"></span>
+      <span class="tutor-student" id="tutor-student"></span>
+    </div>
+    <div class="tutor-status-badge" id="tutor-status-badge">🟢 Online</div>
+  </div>
+
+  <div class="tutor-char-area" id="tutor-char-area">
+    <div class="char-container" id="char-container">
+      <svg class="char-svg" id="char-svg" viewBox="0 0 120 130" fill="none">
+        <!-- Glow -->
+        <circle cx="60" cy="55" r="50" fill="#3b82f6" opacity="0.06">
+          <animate attributeName="r" values="48;52;48" dur="3s" repeatCount="indefinite"/>
+        </circle>
+        <!-- Body -->
+        <ellipse cx="60" cy="95" rx="32" ry="22" fill="#1e3a5f" stroke="#3b82f6" stroke-width="1.5"/>
+        <!-- Head -->
+        <circle cx="60" cy="52" r="28" fill="#1e3a5f" stroke="#3b82f6" stroke-width="1.5"/>
+        <!-- Eyes (left, right) -->
+        <ellipse cx="48" cy="48" rx="7" ry="8" fill="#f1f5f9"/>
+        <ellipse cx="72" cy="48" rx="7" ry="8" fill="#f1f5f9"/>
+        <!-- Pupils -->
+        <circle class="pupil" cx="50" cy="48" r="3.5" fill="#0f172a"/>
+        <circle class="pupil" cx="74" cy="48" r="3.5" fill="#0f172a"/>
+        <!-- Eye shine -->
+        <circle cx="52" cy="45" r="1.5" fill="white" opacity="0.8"/>
+        <circle cx="76" cy="45" r="1.5" fill="white" opacity="0.8"/>
+        <!-- Beak -->
+        <polygon class="beak" points="60,55 55,62 65,62" fill="#fbbf24" stroke="#f59e0b" stroke-width="0.8"/>
+        <!-- Glasses -->
+        <circle cx="48" cy="48" r="11" fill="none" stroke="#60a5fa" stroke-width="1.2" opacity="0.5"/>
+        <circle cx="72" cy="48" r="11" fill="none" stroke="#60a5fa" stroke-width="1.2" opacity="0.5"/>
+        <line x1="59" y1="48" x2="61" y2="48" stroke="#60a5fa" stroke-width="1.2" opacity="0.5"/>
+        <!-- Mortarboard -->
+        <rect x="38" y="26" width="44" height="5" rx="2" fill="#3b82f6" opacity="0.6"/>
+        <rect x="34" y="26" width="52" height="3" rx="1.5" fill="#60a5fa"/>
+        <polygon points="60,20 60,26 68,24" fill="#fbbf24"/>
+        <!-- Tassel -->
+        <path class="tassel" d="M38 30 Q32 26 34 18" stroke="#fbbf24" stroke-width="1.5" fill="none" stroke-linecap="round">
+          <animate attributeName="d" values="M38 30 Q32 26 34 18;M38 30 Q30 28 34 16;M38 30 Q32 26 34 18" dur="2s" repeatCount="indefinite"/>
+        </path>
+        <!-- Wings -->
+        <path class="wing" d="M28 88 Q12 78 16 66" stroke="#3b82f6" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path class="wing" d="M92 88 Q108 78 104 66" stroke="#3b82f6" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <!-- Book -->
+        <rect x="52" y="88" width="16" height="12" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="0.8"/>
+        <line x1="60" y1="88" x2="60" y2="100" stroke="#cbd5e1" stroke-width="0.8"/>
+        <!-- Speech wave (appears when talking) -->
+        <path class="speech-wave" d="M90 34 Q100 30 98 40" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round" opacity="0"/>
+        <path class="speech-wave" d="M96 28 Q108 22 106 36" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round" opacity="0"/>
+      </svg>
+    </div>
+    <div class="char-label">Cikgu Hoot</div>
+    <div class="char-state" id="char-state">🤓 Ready to teach!</div>
+  </div>
+
+  <div class="chat-area" id="chat-area">
+    <div class="chat-msgs" id="chat-msgs">
+      <div class="msg tutor-msg" id="welcome-msg">
+        Hoot hoot! 🦉 I'm Cikgu Hoot. Tap the mic and tell me what you want to learn!
+      </div>
+    </div>
+    <div class="typing-indicator" id="typing-ind" style="display:none">
+      <div class="typing-dot"></div>
+      <div class="typing-dot"></div>
+      <div class="typing-dot"></div>
+    </div>
+  </div>
+
+  <div class="voice-area" id="voice-area">
+    <div class="voice-wave" id="voice-wave">
+      <div class="vbar"></div><div class="vbar"></div><div class="vbar"></div>
+      <div class="vbar"></div><div class="vbar"></div><div class="vbar"></div>
+      <div class="vbar"></div>
+    </div>
+    <button class="mic-btn" id="mic-btn" onclick="toggleMic()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/>
+        <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+        <line x1="12" y1="19" x2="12" y2="23"/>
+        <line x1="8" y1="23" x2="16" y2="23"/>
+      </svg>
+    </button>
+    <div class="mic-label" id="mic-label">👆 Tap & speak</div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
